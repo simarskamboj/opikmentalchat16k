@@ -1,0 +1,107 @@
+[
+  {
+    "input": "Which of the following best describes the mechanism of action of PADCEV (enfortumab vedotin-ejfv)?\nOptions: (A) Inhibition of DNA synthesis via alkylation of DNA strands\n(B) Inhibition of microtubule function via release of monomethyl auristatin E (MMAE) after binding to Nectin-4\n(C) Blockade of tyrosine kinase receptors\n(D) Inhibition of immune checkpoints\n(E) Inhibition of PARP enzymes",
+    "expected_output": "Inhibition of microtubule function via release of monomethyl auristatin E (MMAE) after binding to Nectin-4",
+    "reference": "Inhibition of microtubule function via release of monomethyl auristatin E (MMAE) after binding to Nectin-4"
+  },
+  {
+    "input": "What is the recommended dosing schedule for PADCEV in the treatment of locally advanced or metastatic urothelial cancer?\nOptions: (A) 1.25 mg/kg IV infusion on Days 1, 8, and 15 of a 28-day cycle\n(B) 2.0 mg/kg IV infusion on Days 1 and 15 of a 28-day cycle\n(C) 1.25 mg/kg IV push daily for 5 days\n(D) 0.75 mg/kg IV infusion on Days 1, 8, 15, and 22 of a 28-day cycle\n(E) 1.25 mg/kg oral administration once weekly",
+    "expected_output": "1.25 mg/kg IV infusion on Days 1, 8, and 15 of a 28-day cycle",
+    "reference": "1.25 mg/kg IV infusion on Days 1, 8, and 15 of a 28-day cycle"
+  },
+  {
+    "input": "Which serious cutaneous adverse reactions are associated with PADCEV and require immediate medical attention?\nOptions: (A) Psoriasis\n(B) Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)\n(C) Atopic dermatitis\n(D) Acne vulgaris\n(E) Seborrheic dermatitis",
+    "expected_output": "Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)",
+    "reference": "Stevens-Johnson syndrome (SJS) and Toxic Epidermal Necrolysis (TEN)"
+  },
+  {
+    "input": "According to the prescribing information, what contraindications exist for the use of PADCEV?\nOptions: (A) Contraindicated in patients with moderate hepatic impairment\n(B) Contraindicated in patients with renal impairment\n(C) There are no contraindications\n(D) Contraindicated in patients with cardiac arrhythmia\n(E) Contraindicated in pregnant women",
+    "expected_output": "There are no contraindications",
+    "reference": "There are no contraindications"
+  },
+  {
+    "input": "For females of reproductive potential receiving PADCEV, effective contraception is advised during treatment and for how long after the last dose?\nOptions: (A) 1 month\n(B) 2 months\n(C) 3 weeks\n(D) 4 months\n(E) 6 months",
+    "expected_output": "2 months",
+    "reference": "2 months"
+  },
+  {
+    "input": "How should PADCEV be administered?\nOptions: (A) As an oral tablet\n(B) As an intramuscular injection\n(C) As an intravenous infusion over 30 minutes\n(D) As an intravenous push\n(E) As a subcutaneous injection",
+    "expected_output": "As an intravenous infusion over 30 minutes",
+    "reference": "As an intravenous infusion over 30 minutes"
+  },
+  {
+    "input": "What is the correct procedure for reconstituting PADCEV prior to administration?\nOptions: (A) Reconstitute with 10 mL of normal saline\n(B) Reconstitute with Sterile Water for Injection; 2.3 mL for 20 mg vial and 3.3 mL for 30 mg vial, then dilute in an appropriate IV infusion bag\n(C) Reconstitute with Dextrose 5% solution directly in the vial\n(D) Shake vigorously after adding the diluent\n(E) Reconstitute with Lactated Ringer’s solution only",
+    "expected_output": "Reconstitute with Sterile Water for Injection; 2.3 mL for 20 mg vial and 3.3 mL for 30 mg vial, then dilute in an appropriate IV infusion bag",
+    "reference": "Reconstitute with Sterile Water for Injection; 2.3 mL for 20 mg vial and 3.3 mL for 30 mg vial, then dilute in an appropriate IV infusion bag"
+  },
+  {
+    "input": "How should PADCEV vials be stored?\nOptions: (A) At room temperature\n(B) In a freezer at -20°C\n(C) Refrigerated at 2°C to 8°C and do not freeze\n(D) Exposed to direct sunlight\n(E) At 15°C to 25°C",
+    "expected_output": "Refrigerated at 2°C to 8°C and do not freeze",
+    "reference": "Refrigerated at 2°C to 8°C and do not freeze"
+  },
+  {
+    "input": "What should be done in the event of an infusion site extravasation during the administration of PADCEV?\nOptions: (A) Continue the infusion slowly\n(B) Immediately stop the infusion and monitor the site\n(C) Increase the infusion rate\n(D) Dilute the drug further and restart the infusion\n(E) Apply ice and then continue the infusion",
+    "expected_output": "Immediately stop the infusion and monitor the site",
+    "reference": "Immediately stop the infusion and monitor the site"
+  },
+  {
+    "input": "Which of the following statements regarding hyperglycemia and PADCEV is true?\nOptions: (A) Hyperglycemia is not a concern with PADCEV\n(B) Patients should be monitored and PADCEV withheld if blood glucose exceeds 250 mg/dL\n(C) Hyperglycemia is only seen in patients with pre-existing diabetes\n(D) PADCEV causes hypoglycemia rather than hyperglycemia\n(E) Blood glucose levels do not need to be monitored during treatment",
+    "expected_output": "Patients should be monitored and PADCEV withheld if blood glucose exceeds 250 mg/dL",
+    "reference": "Patients should be monitored and PADCEV withheld if blood glucose exceeds 250 mg/dL"
+  },
+  {
+    "input": "Which common nervous system adverse reaction is associated with PADCEV?\nOptions: (A) Seizures\n(B) Peripheral neuropathy\n(C) Stroke\n(D) Meningitis\n(E) Parkinsonism",
+    "expected_output": "Peripheral neuropathy",
+    "reference": "Peripheral neuropathy"
+  },
+  {
+    "input": "What ocular adverse reactions have been reported in patients treated with PADCEV?\nOptions: (A) Glaucoma\n(B) Dry eye and blurred vision\n(C) Retinal detachment\n(D) Cataracts\n(E) Macular degeneration",
+    "expected_output": "Dry eye and blurred vision",
+    "reference": "Dry eye and blurred vision"
+  },
+  {
+    "input": "For male patients with female partners of reproductive potential receiving PADCEV, how long should effective contraception be used after the last dose?\nOptions: (A) 1 month\n(B) 2 months\n(C) 3 weeks\n(D) 4 months\n(E) 6 months",
+    "expected_output": "4 months",
+    "reference": "4 months"
+  },
+  {
+    "input": "Can PADCEV be mixed with other medicinal products during the infusion process?\nOptions: (A) Yes, it can be mixed with any IV solution\n(B) Yes, if the other product is a chemotherapeutic agent\n(C) No, it should not be mixed with other medicinal products\n(D) Yes, if administered as an IV push\n(E) Only if diluted in normal saline",
+    "expected_output": "No, it should not be mixed with other medicinal products",
+    "reference": "No, it should not be mixed with other medicinal products"
+  },
+  {
+    "input": "Which patients should avoid the use of PADCEV based on hepatic function?\nOptions: (A) Patients with mild hepatic impairment\n(B) Patients with moderate or severe hepatic impairment\n(C) Patients with normal liver function\n(D) Patients with a history of alcohol use\n(E) Patients with elevated ALT only",
+    "expected_output": "Patients with moderate or severe hepatic impairment",
+    "reference": "Patients with moderate or severe hepatic impairment"
+  },
+  {
+    "input": "What concomitant medication use may increase exposure to unconjugated MMAE when administering PADCEV?\nOptions: (A) Strong CYP2D6 inhibitors\n(B) Dual P-gp and strong CYP3A4 inhibitors\n(C) Beta-blockers\n(D) ACE inhibitors\n(E) Calcium channel blockers",
+    "expected_output": "Dual P-gp and strong CYP3A4 inhibitors",
+    "reference": "Dual P-gp and strong CYP3A4 inhibitors"
+  },
+  {
+    "input": "What key counseling information should be provided to patients regarding skin reactions when receiving PADCEV?\nOptions: (A) They are not at risk for any skin reactions\n(B) They should immediately report new or worsening skin reactions\n(C) Skin reactions are mild and require no medical attention\n(D) Skin reactions only occur after multiple cycles\n(E) Use over-the-counter creams to manage skin reactions",
+    "expected_output": "They should immediately report new or worsening skin reactions",
+    "reference": "They should immediately report new or worsening skin reactions"
+  },
+  {
+    "input": "What is the recommendation regarding breastfeeding for women receiving PADCEV?\nOptions: (A) It is safe to breastfeed during treatment\n(B) Breastfeeding is advised to reduce side effects\n(C) Women should not breastfeed during treatment and for 3 weeks after the last dose\n(D) Women can breastfeed if they use a pump\n(E) Breastfeeding is allowed only if the baby is older than 6 months",
+    "expected_output": "Women should not breastfeed during treatment and for 3 weeks after the last dose",
+    "reference": "Women should not breastfeed during treatment and for 3 weeks after the last dose"
+  },
+  {
+    "input": "After reconstitution, for how long can the PADCEV vials be stored if not used immediately?\nOptions: (A) 2 hours at room temperature\n(B) 8 hours if refrigerated\n(C) Up to 24 hours in the refrigerator at 2°C to 8°C\n(D) 48 hours at room temperature\n(E) They must be used immediately and cannot be stored",
+    "expected_output": "Up to 24 hours in the refrigerator at 2°C to 8°C",
+    "reference": "Up to 24 hours in the refrigerator at 2°C to 8°C"
+  },
+  {
+    "input": "In what dosage forms is PADCEV supplied?\nOptions: (A) Oral capsules\n(B) Injectable solution in prefilled syringes\n(C) Lyophilized powder in single-dose vials available in 20 mg and 30 mg\n(D) Topical cream\n(E) Transdermal patch",
+    "expected_output": "Lyophilized powder in single-dose vials available in 20 mg and 30 mg",
+    "reference": "Lyophilized powder in single-dose vials available in 20 mg and 30 mg"
+  },
+  {
+    "input": "Which of the following best describes the handling requirements for PADCEV as a hazardous drug?\nOptions: (A) It can be handled without special precautions\n(B) It requires proper handling and disposal procedures\n(C) It must be administered only by patients at home\n(D) It can be mixed with other chemotherapy drugs\n(E) No special handling is required since it is not hazardous",
+    "expected_output": "It requires proper handling and disposal procedures",
+    "reference": "It requires proper handling and disposal procedures"
+  }
+]
